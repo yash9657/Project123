@@ -1,0 +1,21 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+.box{
+   background-color: #fff;
+  margin:0.5rem;
+   height:30rem;
+   width:20rem;
+   box-shadow: 5px 5px 10px rgba(0,0,0,0.25);
+}
+img{
+   position:relative;
+   height:60%;
+   width:100%;
+}
+h3,h1,p{
+   font-family:sans-serif ;
+}

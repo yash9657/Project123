@@ -1,0 +1,19 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+   
+
+}
+body{
+    background-color:gainsboro;
+}
+.container{
+    height:100%;
+    width:100%;
+   display:flex;
+   flex-wrap: wrap;
+   justify-content:space-evenly;
+   top:5rem;
+   
+}
